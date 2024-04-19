@@ -1,2 +1,3 @@
 # studentX
 MERN stack
+javascript
