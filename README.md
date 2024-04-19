@@ -1,1 +1,2 @@
 # studentX
+MERN stack
